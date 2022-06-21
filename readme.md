@@ -37,7 +37,7 @@ często był włączany przed bazą danych, chociaż zależności są zalecane
 - Usunięcie  
 `docker compose down`  
 <br>
-Nawet pracuje
+Nawet pracuje  
 ![build](./readme_assets/build.png)  
 ![up](./readme_assets/up.png)
 ### P.S
